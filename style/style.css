@@ -19,7 +19,7 @@ div{
     box-shadow: 0px 10px 10px black;
 }
 
-#h1{
+h1{
     padding-top: 50px;
     padding-bottom: 20px ;
     font-size: 40px;
@@ -38,7 +38,7 @@ input{
     border: 1px solid black;   
 }
 
-#swap{
+button{
     margin: 20px;
     border-radius: 10px;
     font-size: 20px;
